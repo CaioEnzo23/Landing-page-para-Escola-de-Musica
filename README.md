@@ -1,2 +1,2 @@
 # Landing page para Escola de Música
-Tom Jazz School
+Codigo Posto para Demonstração dos Conhecimentos em HTML e CSS
